@@ -1,1 +1,1 @@
-# OSRS-News-Notification
+# Python-projects
